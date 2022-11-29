@@ -8,6 +8,8 @@ I used React Ink to create a custom rendering that computes the correct characte
 
 The user can move freely in the editor using the arrow keys.
 
+!(terminal-screenshot)[terminal-screenshot.png]
+
 ## Install
 
 ```bash
